@@ -1,15 +1,15 @@
 feature,display_feature,standardized_logit_coefficient,absolute_coefficient,permutation_importance_mean,permutation_importance_std,direction,domain_interpretation
-load_roll_24h_mean,"Load rolling mean, 24 h",-3.53693105816354,3.53693105816354,0.168416046667627,0.00767924757591445,decreases risk,Higher current or lagged load reduces next-day high-load risk.
-dow_sin,Day-of-week sine,2.5429695312095855,2.5429695312095855,0.23105500649780178,0.010503722938901125,increases risk,Calendar structure raises high-load risk for recurring demand cycles.
-is_weekend,Weekend indicator,1.6356702010279596,1.6356702010279596,0.07252890487762768,0.009025658323603249,increases risk,Calendar structure raises high-load risk for recurring demand cycles.
-load_roll_168h_mean,"Load rolling mean, 168 h",1.6031014345852022,1.6031014345852022,0.19707422110842154,0.009371842690545024,increases risk,Higher current or lagged load raises next-day high-load risk.
-zone_tennet_load_mw,TenneT zone load,1.4929298916823894,1.4929298916823894,0.1035427196638636,0.011208960331139689,increases risk,Higher current or lagged load raises next-day high-load risk.
-residual_load_share,Residual-load share,-1.1727199516532927,1.1727199516532927,0.03244201635519147,0.007360043453121852,decreases risk,Higher current or lagged load reduces next-day high-load risk.
-renewable_share,Wind/solar share of load,1.1727199516532907,1.1727199516532907,0.03244201635519147,0.007360043453121852,increases risk,Renewable operating state raises next-day risk after controlling for load history.
-load_lag_168h,"Load lag, 168 h",-1.0825717922191034,1.0825717922191034,0.03874197970520268,0.0044780611476074265,decreases risk,Higher current or lagged load reduces next-day high-load risk.
-doy_cos,Day-of-year cosine,1.036779785994404,1.036779785994404,0.0576089555682775,0.004292976756355419,increases risk,Calendar structure raises high-load risk for recurring demand cycles.
-residual_load_mw,Residual load,1.0113904638288762,1.0113904638288762,0.0787792377177165,0.005562798603878101,increases risk,Higher current or lagged load raises next-day high-load risk.
-zone_load_imbalance_mw,TSO load imbalance,0.963128687558235,0.963128687558235,0.04354487451308464,0.010657184345439295,increases risk,Higher current or lagged load raises next-day high-load risk.
-load_lag_24h,"Load lag, 24 h",0.9293971595718029,0.9293971595718029,0.031343141762207184,0.005453089190972824,increases risk,Higher current or lagged load raises next-day high-load risk.
-zone_50hertz_load_mw,50Hertz zone load,0.7566202717873589,0.7566202717873589,0.021135122639328985,0.006990847629653899,increases risk,Higher current or lagged load raises next-day high-load risk.
-hour_sin,Hour-of-day sine,0.7079714877497629,0.7079714877497629,0.007027213008251543,0.0070467453596870415,increases risk,Calendar structure raises high-load risk for recurring demand cycles.
+load_roll_24h_mean,"Load rolling mean, 24 h",-3.5369310581777826,3.5369310581777826,0.168416046667627,0.00767924757591445,decreases risk,Higher current or lagged load reduces next-day high-load risk.
+dow_sin,Day-of-week sine,2.5429695311994247,2.5429695311994247,0.23105500649780178,0.010503722938901125,increases risk,Calendar structure raises high-load risk for recurring demand cycles.
+is_weekend,Weekend indicator,1.6356702010003803,1.6356702010003803,0.07252890487762768,0.009025658323603249,increases risk,Calendar structure raises high-load risk for recurring demand cycles.
+load_roll_168h_mean,"Load rolling mean, 168 h",1.6031014345929337,1.6031014345929337,0.19707422110842154,0.009371842690545024,increases risk,Higher current or lagged load raises next-day high-load risk.
+zone_tennet_load_mw,TenneT zone load,1.492929891715505,1.492929891715505,0.1035427196638636,0.011208960331139689,increases risk,Higher current or lagged load raises next-day high-load risk.
+residual_load_share,Residual-load share,-1.1727199516862308,1.1727199516862308,0.03244201635519147,0.007360043453121852,decreases risk,Higher current or lagged load reduces next-day high-load risk.
+renewable_share,Wind/solar share of load,1.172719951686223,1.172719951686223,0.03244201635519147,0.007360043453121852,increases risk,Renewable operating state raises next-day risk after controlling for load history.
+load_lag_168h,"Load lag, 168 h",-1.082571792220365,1.082571792220365,0.03874197970520268,0.0044780611476074265,decreases risk,Higher current or lagged load reduces next-day high-load risk.
+doy_cos,Day-of-year cosine,1.0367797860036863,1.0367797860036863,0.0576089555682775,0.004292976756355419,increases risk,Calendar structure raises high-load risk for recurring demand cycles.
+residual_load_mw,Residual load,1.0113904638718048,1.0113904638718048,0.0787792377177165,0.005562798603878101,increases risk,Higher current or lagged load raises next-day high-load risk.
+zone_load_imbalance_mw,TSO load imbalance,0.9631286874804657,0.9631286874804657,0.04354487451308464,0.010657184345439295,increases risk,Higher current or lagged load raises next-day high-load risk.
+load_lag_24h,"Load lag, 24 h",0.9293971596065392,0.9293971596065392,0.031343141762207184,0.005453089190972824,increases risk,Higher current or lagged load raises next-day high-load risk.
+zone_50hertz_load_mw,50Hertz zone load,0.7566202717917052,0.7566202717917052,0.021135122639328985,0.006990847629653899,increases risk,Higher current or lagged load raises next-day high-load risk.
+hour_sin,Hour-of-day sine,0.7079714877472624,0.7079714877472624,0.007027213008251543,0.0070467453596870415,increases risk,Calendar structure raises high-load risk for recurring demand cycles.
