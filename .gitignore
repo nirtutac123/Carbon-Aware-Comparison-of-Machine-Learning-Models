@@ -1,0 +1,5 @@
+node_modules/
+.DS_Store
+.pptx_workspace/
+data.csv
+preprocessed_content.csv

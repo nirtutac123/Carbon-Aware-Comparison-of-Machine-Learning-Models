@@ -1,0 +1,133 @@
+{"kind":"deck","id":"pr/bb9m7m","name":"Deck"}
+{"kind":"slide","id":"sl/2x4nap4r","slide":2,"title":"Auditing Carbon-Aware AI Model Selection","textShapes":77}
+{"kind":"shape","id":"sh/cvixczed","slide":2,"name":"Rectangle 1","bbox":[0,0,4608,305.28]}
+{"kind":"textbox","id":"sh/5gbq1ory","slide":2,"textChars":40,"textLines":1}
+{"kind":"textbox","id":"sh/udg7adsj","slide":2,"textChars":86,"textLines":1}
+{"kind":"textbox","id":"sh/nyd0z610","slide":2,"textChars":77,"textLines":1}
+{"kind":"shape","id":"sh/cj6tovah","slide":2,"name":"Oval 5","bbox":[115.2,78.72,108.58,108.58]}
+{"kind":"shape","id":"sh/54zidony","slide":2,"name":"Rectangle 6","bbox":[145.82,109.34,47.33,47.33]}
+{"kind":"shape","id":"sh/u9knih4b","slide":2,"name":"Connector 7","bbox":[137.47,133.01,8.35,0]}
+{"kind":"shape","id":"sh/judg7ads","slide":2,"name":"Connector 8","bbox":[193.15,133.01,6.96,0]}
+{"kind":"textbox","id":"sh/nyd0z610","slide":2,"textChars":2,"textLines":1}
+{"kind":"shape","id":"sh/udg7adsj","slide":2,"name":"Oval 10","bbox":[201.6,78.72,108.58,108.58]}
+{"kind":"shape","id":"sh/54zidony","slide":2,"name":"Oval 11","bbox":[236.4,105.17,50.11,33.41]}
+{"kind":"shape","id":"sh/cj6tovah","slide":2,"name":"Oval 12","bbox":[4310.4,78.72,108.58,108.58]}
+{"kind":"shape","id":"sh/nap4r65w","slide":2,"name":"Can 13","bbox":[4341.02,106.56,50.11,58.46]}
+{"kind":"shape","id":"sh/upwb2hwf","slide":2,"name":"Oval 14","bbox":[4396.8,78.72,108.58,108.58]}
+{"kind":"shape","id":"sh/5gbq1ory","slide":2,"name":"Pentagon 15","bbox":[4427.42,103.78,50.11,59.86]}
+{"kind":"textbox","id":"sh/cvixczed","slide":2,"textChars":1,"textLines":1}
+{"kind":"shape","id":"sh/jm1cfa9w","slide":2,"name":"Rounded Rectangle 17","bbox":[96,347.52,2131.2,456]}
+{"kind":"shape","id":"sh/u18jqh0f","slide":2,"name":"Rounded Rectangle 18","bbox":[96,347.52,2131.2,46.08]}
+{"kind":"textbox","id":"sh/25kb6xkf","slide":2,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/rqd4vmtw","slide":2,"textChars":10,"textLines":1}
+{"kind":"shape","id":"sh/kb6xkf6d","slide":2,"name":"Oval 21","bbox":[136.32,426.24,35.94,35.94]}
+{"kind":"shape","id":"sh/9w3m94fu","slide":2,"name":"Oval 22","bbox":[147.84,435,16.59,11.06]}
+{"kind":"textbox","id":"sh/2t83itgf","slide":2,"textChars":61,"textLines":1}
+{"kind":"shape","id":"sh/re1w7mp0","slide":2,"name":"Oval 24","bbox":[136.32,505.92,35.94,35.94]}
+{"kind":"shape","id":"sh/kzupwb2h","slide":2,"name":"Pentagon 25","bbox":[146.46,514.21,16.59,19.81]}
+{"kind":"textbox","id":"sh/9knih4by","slide":2,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/2p8nqxs7","slide":2,"textChars":58,"textLines":1}
+{"kind":"shape","id":"sh/ra5gbq1o","slide":2,"name":"Oval 28","bbox":[136.32,585.6,35.94,35.94]}
+{"kind":"shape","id":"sh/xs72x4na","slide":2,"name":"Oval 29","bbox":[147.84,594.36,16.59,11.06]}
+{"kind":"textbox","id":"sh/87ed8bat","slide":2,"textChars":63,"textLines":1}
+{"kind":"shape","id":"sh/fmlkjm1c","slide":2,"name":"Oval 31","bbox":[136.32,665.28,35.94,35.94]}
+{"kind":"shape","id":"sh/q1orytsv","slide":2,"name":"Pentagon 32","bbox":[146.46,673.57,16.59,19.81]}
+{"kind":"textbox","id":"sh/1gvy90je","slide":2,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/8z25kb6x","slide":2,"textChars":61,"textLines":1}
+{"kind":"shape","id":"sh/je9cvixc","slide":2,"name":"Rounded Rectangle 35","bbox":[2304,347.52,2208,456]}
+{"kind":"shape","id":"sh/qtcj6tov","slide":2,"name":"Rounded Rectangle 36","bbox":[2304,347.52,2208,46.08]}
+{"kind":"textbox","id":"sh/xczed8v6","slide":2,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/8v6psfil","slide":2,"textChars":8,"textLines":1}
+{"kind":"shape","id":"sh/w3m94fu1","slide":2,"name":"Rounded Rectangle 39","bbox":[2347.2,438.72,691.2,232.32]}
+{"kind":"shape","id":"sh/loj2t83i","slide":2,"name":"Oval 40","bbox":[2371.2,471.36,64.4,64.4]}
+{"kind":"shape","id":"sh/ex0nuxc3","slide":2,"name":"Can 41","bbox":[2389.36,487.87,29.72,34.68]}
+{"kind":"textbox","id":"sh/3itgfmlk","slide":2,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/wb2hwfyx","slide":2,"textChars":23,"textLines":1}
+{"kind":"textbox","id":"sh/lwval87e","slide":2,"textChars":28,"textLines":1}
+{"kind":"shape","id":"sh/e9cvixcz","slide":2,"name":"Rounded Rectangle 45","bbox":[3062.4,438.72,691.2,232.32]}
+{"kind":"shape","id":"sh/3q5o7qpg","slide":2,"name":"Oval 46","bbox":[3086.4,471.36,64.4,64.4]}
+{"kind":"shape","id":"sh/sneloj2t","slide":2,"name":"Rectangle 47","bbox":[3104.56,506.04,5.78,14.86]}
+{"kind":"shape","id":"sh/l87ed8ba","slide":2,"name":"Rectangle 48","bbox":[3113.64,496.13,5.78,24.77]}
+{"kind":"shape","id":"sh/b6xkf6dc","slide":2,"name":"Rectangle 49","bbox":[3122.73,486.22,5.78,34.68]}
+{"kind":"textbox","id":"sh/il0rqd4v","slide":2,"textChars":18,"textLines":1}
+{"kind":"textbox","id":"sh/tcj6tova","slide":2,"textChars":24,"textLines":1}
+{"kind":"textbox","id":"sh/0rqd4vmt","slide":2,"textChars":25,"textLines":1}
+{"kind":"shape","id":"sh/byhgn29g","slide":2,"name":"Rounded Rectangle 53","bbox":[3777.6,438.72,691.2,232.32]}
+{"kind":"shape","id":"sh/idonyd0z","slide":2,"name":"Oval 54","bbox":[3801.6,471.36,64.4,64.4]}
+{"kind":"shape","id":"sh/t47y1kre","slide":2,"name":"Document 55","bbox":[3820.59,486.22,28.07,37.15]}
+{"kind":"textbox","id":"sh/0je9cvix","slide":2,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/bulwval8","slide":2,"textChars":23,"textLines":1}
+{"kind":"textbox","id":"sh/i9s36hcr","slide":2,"textChars":24,"textLines":1}
+{"kind":"shape","id":"sh/6xkf6dcb","slide":2,"name":"Rounded Rectangle 59","bbox":[96,851.52,835.2,1560]}
+{"kind":"shape","id":"sh/zed8v6ps","slide":2,"name":"Rounded Rectangle 60","bbox":[96,851.52,835.2,46.08]}
+{"kind":"textbox","id":"sh/oza1gvy9","slide":2,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/hk3q5o7q","slide":2,"textChars":20,"textLines":1}
+{"kind":"shape","id":"sh/65wjudg7","slide":2,"name":"Connector 63","bbox":[184.32,1006.08,0,1348.8]}
+{"kind":"shape","id":"sh/zqtcj6to","slide":2,"name":"Oval 64","bbox":[142.08,971.52,78.62,78.62]}
+{"kind":"shape","id":"sh/obm58z25","slide":2,"name":"Can 65","bbox":[164.26,991.68,36.29,42.34]}
+{"kind":"textbox","id":"sh/hwfyxobm","slide":2,"textChars":15,"textLines":1}
+{"kind":"textbox","id":"sh/a9w3m94f","slide":2,"textChars":16,"textLines":1}
+{"kind":"shape","id":"sh/zupwb2hw","slide":2,"name":"Down Arrow 68","bbox":[170.88,1111.8,26.88,40.32]}
+{"kind":"shape","id":"sh/l0rqd4vm","slide":2,"name":"Oval 69","bbox":[142.08,1241.28,78.62,78.62]}
+{"kind":"shape","id":"sh/wfyxobm5","slide":2,"name":"Pentagon 70","bbox":[164.26,1259.42,36.29,43.34]}
+{"kind":"textbox","id":"sh/7u54zido","slide":2,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/ed8bat47","slide":2,"textChars":13,"textLines":1}
+{"kind":"textbox","id":"sh/lc7u54zi","slide":2,"textChars":22,"textLines":1}
+{"kind":"shape","id":"sh/wra5gbq1","slide":2,"name":"Down Arrow 74","bbox":[170.88,1381.56,26.88,40.32]}
+{"kind":"shape","id":"sh/36hcrmhk","slide":2,"name":"Oval 75","bbox":[142.08,1511.04,78.62,78.62]}
+{"kind":"shape","id":"sh/eloj2t83","slide":2,"name":"Rectangle 76","bbox":[164.26,1533.22,34.27,34.27]}
+{"kind":"shape","id":"sh/pg3ex0nu","slide":2,"name":"Connector 77","bbox":[158.21,1550.35,6.05,0]}
+{"kind":"shape","id":"sh/wval87ed","slide":2,"name":"Connector 78","bbox":[198.53,1550.35,5.04,0]}
+{"kind":"textbox","id":"sh/orytsvu9","slide":2,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/hcrmhk3q","slide":2,"textChars":19,"textLines":1}
+{"kind":"textbox","id":"sh/al87ed8b","slide":2,"textChars":20,"textLines":1}
+{"kind":"shape","id":"sh/z61032ls","slide":2,"name":"Down Arrow 82","bbox":[170.88,1651.32,26.88,40.32]}
+{"kind":"shape","id":"sh/sfil0rqd","slide":2,"name":"Oval 83","bbox":[142.08,1780.8,78.62,78.62]}
+{"kind":"shape","id":"sh/h0fepkzu","slide":2,"name":"Rectangle 84","bbox":[164.26,1802.98,34.27,34.27]}
+{"kind":"shape","id":"sh/a9w3m94f","slide":2,"name":"Connector 85","bbox":[158.21,1820.11,6.05,0]}
+{"kind":"shape","id":"sh/zupwb2hw","slide":2,"name":"Connector 86","bbox":[198.53,1820.11,5.04,0]}
+{"kind":"textbox","id":"sh/obm58z25","slide":2,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/hwfyxobm","slide":2,"textChars":8,"textLines":1}
+{"kind":"textbox","id":"sh/7u54zido","slide":2,"textChars":20,"textLines":1}
+{"kind":"shape","id":"sh/ed8bat47","slide":2,"name":"Down Arrow 90","bbox":[170.88,1921.08,26.88,40.32]}
+{"kind":"shape","id":"sh/l0rqd4vm","slide":2,"name":"Oval 91","bbox":[142.08,2050.56,78.62,78.62]}
+{"kind":"shape","id":"sh/wfyxobm5","slide":2,"name":"Rectangle 92","bbox":[164.26,2092.9,7.06,18.14]}
+{"kind":"shape","id":"sh/36hcrmhk","slide":2,"name":"Rectangle 93","bbox":[175.34,2080.8,7.06,30.24]}
+{"kind":"shape","id":"sh/eloj2t83","slide":2,"name":"Rectangle 94","bbox":[186.43,2068.7,7.06,42.34]}
+{"kind":"textbox","id":"sh/lc7u54zi","slide":2,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/wra5gbq1","slide":2,"textChars":16,"textLines":1}
+{"kind":"shape","id":"sh/7adsji5s","slide":2,"name":"Down Arrow 97","bbox":[170.88,2190.84,26.88,40.32]}
+{"kind":"shape","id":"sh/epkzupwb","slide":2,"name":"Oval 98","bbox":[142.08,2320.32,78.62,78.62]}
+{"kind":"shape","id":"sh/b6xkf6dc","slide":2,"name":"Oval 99","bbox":[167.28,2339.47,36.29,24.19]}
+{"kind":"textbox","id":"sh/il0rqd4v","slide":2,"textChars":8,"textLines":1}
+{"kind":"textbox","id":"sh/tcj6tova","slide":2,"textChars":17,"textLines":1}
+{"kind":"shape","id":"sh/0rqd4vmt","slide":2,"name":"Rounded Rectangle 102","bbox":[984,851.52,1238.4,710.4]}
+{"kind":"shape","id":"sh/byhgn29g","slide":2,"name":"Rounded Rectangle 103","bbox":[984,851.52,1238.4,46.08]}
+{"kind":"textbox","id":"sh/idonyd0z","slide":2,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/t47y1kre","slide":2,"textChars":18,"textLines":1}
+{"kind":"shape","id":"sh/0je9cvix","slide":2,"name":"Oval 106","bbox":[1030.08,936,46.08,46.08]}
+{"kind":"textbox","id":"sh/bulwval8","slide":2,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/i9s36hcr","slide":2,"textChars":32,"textLines":1}
+{"kind":"shape","id":"sh/w3m94fu1","slide":2,"name":"Oval 109","bbox":[1030.08,1014.72,46.08,46.08]}
+{"kind":"textbox","id":"sh/loj2t83i","slide":2,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/ex0nuxc3","slide":2,"textChars":33,"textLines":1}
+{"kind":"shape","id":"sh/3itgfmlk","slide":2,"name":"Oval 112","bbox":[1030.08,1093.44,46.08,46.08]}
+{"kind":"textbox","id":"sh/wb2hwfyx","slide":2,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/lwval87e","slide":2,"textChars":31,"textLines":1}
+{"kind":"shape","id":"sh/e9cvixcz","slide":2,"name":"Oval 115","bbox":[1030.08,1172.16,46.08,46.08]}
+{"kind":"textbox","id":"sh/3q5o7qpg","slide":2,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/sneloj2t","slide":2,"textChars":34,"textLines":1}
+{"kind":"shape","id":"sh/l87ed8ba","slide":2,"name":"Oval 118","bbox":[1030.08,1250.88,46.08,46.08]}
+{"kind":"textbox","id":"sh/l0rqd4vm","slide":2,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/wfyxobm5","slide":2,"textChars":31,"textLines":1}
+{"kind":"shape","id":"sh/7u54zido","slide":2,"name":"Rounded Rectangle 121","bbox":[2284.8,851.52,2227.2,1008]}
+{"kind":"shape","id":"sh/ed8bat47","slide":2,"name":"Rounded Rectangle 122","bbox":[2284.8,851.52,2227.2,46.08]}
+{"kind":"textbox","id":"sh/lc7u54zi","slide":2,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/wra5gbq1","slide":2,"textChars":24,"textLines":1}
+{"kind":"textbox","id":"sh/wval87ed","slide":2,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/6xkf6dcb","slide":2,"textChars":22,"textLines":1}
+{"kind":"textbox","id":"sh/zed8v6ps","slide":2,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/oza1gvy9","slide":2,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/hk3q5o7q","slide":2,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/65wjudg7","slide":2,"textChars":7,"textLines":1}
+{"kind":"notice","message":"Truncated: omitted 361 lines. Increase maxChars or narrow target."}

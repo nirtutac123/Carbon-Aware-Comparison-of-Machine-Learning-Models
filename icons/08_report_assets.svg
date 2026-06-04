@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="Report assets">
+  <rect x="8" y="8" width="112" height="112" rx="18" fill="#ffffff" stroke="#17202a" stroke-width="4"/>
+  <path d="M38 24h40l18 18v62H38z" fill="#f8f9fa" stroke="#17202a" stroke-width="4"/><path d="M78 24v20h18" fill="none" stroke="#17202a" stroke-width="4"/><path d="M48 58h38M48 72h38M48 86h26" stroke="#457b9d" stroke-width="5" stroke-linecap="round"/>
+</svg>

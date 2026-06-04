@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="Pareto selection">
+  <rect x="8" y="8" width="112" height="112" rx="18" fill="#ffffff" stroke="#17202a" stroke-width="4"/>
+  <path d="M28 92H99" stroke="#17202a" stroke-width="4"/><path d="M28 92V29" stroke="#17202a" stroke-width="4"/><circle cx="45" cy="80" r="6" fill="#e76f51"/><circle cx="60" cy="67" r="6" fill="#ffb703"/><circle cx="76" cy="55" r="6" fill="#2a9d8f"/><circle cx="91" cy="42" r="6" fill="#1b9aaa"/><path d="M45 80C58 66 70 56 91 42" fill="none" stroke="#17202a" stroke-width="3" stroke-dasharray="5 4"/>
+</svg>

@@ -1,0 +1,6 @@
+stage,method,output
+Dataset acquisition,Download OPSD 60-minute single-index time-series CSV as data.csv.,data.csv
+Preprocessing,"Select Germany columns, interpolate sparse gaps, engineer calendar, lag, renewable, residual-load, and TSO-zone features.",preprocessed_content.csv
+Target construction,Predict whether German load 24 hours ahead enters the top quintile of observed next-day load.,target_high_load_next_24h
+Model evaluation,"Use chronological 2015-2018 training and 2019-2020 test split; compare F1, AUC, runtime, model size, and carbon proxy.",RQ result CSV tables and PDF figures
+Carbon-aware selection,Estimate runtime energy from CPU power assumptions and scale by residual-load carbon-intensity proxy.,Pareto frontier and scheduling scenario analysis

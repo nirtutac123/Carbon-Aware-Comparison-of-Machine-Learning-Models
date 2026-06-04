@@ -1,0 +1,9 @@
+step,icon_file,semantic_use,format
+1,01_dataset.svg,Dataset,SVG vector
+2,02_research_questions.svg,Research questions,SVG vector
+3,03_preprocessing.svg,Preprocessing,SVG vector
+4,04_feature_engineering.svg,Feature engineering,SVG vector
+5,05_model_training.svg,Model training,SVG vector
+6,06_carbon_accounting.svg,Carbon accounting,SVG vector
+7,07_pareto_selection.svg,Pareto selection,SVG vector
+8,08_report_assets.svg,Report assets,SVG vector

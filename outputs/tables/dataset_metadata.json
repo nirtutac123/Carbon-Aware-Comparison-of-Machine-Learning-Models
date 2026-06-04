@@ -1,0 +1,14 @@
+{
+  "raw_dataset": "Open Power System Data time_series_60min_singleindex.csv",
+  "raw_file": "data.csv",
+  "processed_file": "preprocessed_content.csv",
+  "target": "target_high_load_next_24h",
+  "target_definition": "1 if German load 24 hours ahead is at or above the 80th percentile of observed 24-hour-ahead load (65811.8 MW).",
+  "date_range_utc": [
+    "2015-01-07 23:00:00+00:00",
+    "2020-09-29 23:00:00+00:00"
+  ],
+  "n_rows": 50209,
+  "n_features": 29,
+  "carbon_proxy_note": "The carbon variable is a residual-load proxy, not a measured German grid-emission inventory. It scales from 150 to 650 gCO2e/kWh as the load share unmet by observed wind and solar increases."
+}

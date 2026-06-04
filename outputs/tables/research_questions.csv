@@ -1,0 +1,6 @@
+id,question,figure,table
+RQ1,Which model family gives the strongest Pareto trade-off between predictive accuracy and estimated computational carbon for German next-day high-load-event classification?,rq1_accuracy_carbon_pareto.pdf,rq1_model_tradeoff_metrics.csv
+RQ2,"How much do load history, renewable generation, TSO-zone state, and day-ahead forecast features improve performance relative to a calendar-only baseline?",rq2_feature_ablation.pdf,rq2_feature_ablation_metrics.csv
+RQ3,"Are the model rankings stable across German winter, spring, summer, and autumn operating regimes?",rq3_seasonal_f1_heatmap.pdf,rq3_seasonal_generalization.csv
+RQ4,Can an interpretable low-complexity model explain the dominant drivers of high-load risk without a large loss in predictive utility?,rq4_interpretability_efficiency.pdf,rq4_top_interpretable_features.csv
+RQ5,How much carbon-proxy reduction is available if model training is scheduled into low-residual-load windows rather than arbitrary or high-residual-load hours?,rq5_carbon_aware_training_windows.pdf,rq5_training_window_scenarios.csv

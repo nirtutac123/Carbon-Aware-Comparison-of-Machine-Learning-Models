@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="Carbon accounting">
+  <rect x="8" y="8" width="112" height="112" rx="18" fill="#ffffff" stroke="#17202a" stroke-width="4"/>
+  <path d="M38 87c34-2 50-25 52-52-28 4-52 20-52 52z" fill="#52b788" stroke="#17202a" stroke-width="4"/><path d="M43 83c14-20 26-31 43-43" stroke="#ffffff" stroke-width="5" stroke-linecap="round"/><path d="M70 28l-12 31h19L58 101l35-51H75l16-22z" fill="#ffb703" stroke="#17202a" stroke-width="3"/>
+</svg>
