@@ -1,0 +1,25 @@
+Final Submission Links
+
+1) GitHub repository (complete executed notebooks + saved figures/tables)
+https://github.com/nirtutac123/Carbon-Aware-Comparison-of-Machine-Learning-Models
+
+Executed notebooks (ipynb with outputs)
+https://github.com/nirtutac123/Carbon-Aware-Comparison-of-Machine-Learning-Models/tree/main/notebooks
+
+Saved figures as PDF
+https://github.com/nirtutac123/Carbon-Aware-Comparison-of-Machine-Learning-Models/tree/main/outputs/figures
+
+Saved tables as CSV
+https://github.com/nirtutac123/Carbon-Aware-Comparison-of-Machine-Learning-Models/tree/main/outputs/tables
+
+2) ChatGPT link used for research questions/code
+PASTE_YOUR_CHATGPT_SHARE_LINK_HERE
+
+3) Poster source file (accessible link)
+https://github.com/nirtutac123/Carbon-Aware-Comparison-of-Machine-Learning-Models/blob/main/posters/carbon_aware_ml_academic_posters_v2.pptx
+
+4) Poster PDF (final submission copy)
+https://github.com/nirtutac123/Carbon-Aware-Comparison-of-Machine-Learning-Models/blob/main/posters/carbon_aware_ml_poster_final.pdf
+
+5) AI-generated icon assets used in poster/deck
+https://github.com/nirtutac123/Carbon-Aware-Comparison-of-Machine-Learning-Models/tree/main/icons/google_slides_png

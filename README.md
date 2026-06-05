@@ -10,7 +10,12 @@ This project package was generated for the PS26 final project prompt.
 - `outputs/tables/`: CSV result tables and project metadata.
 - `outputs/figures/`: publication figures as PDF plus PNG companions for documents and posters.
 - `icons/`: reusable SVG icons used in the workflow figure.
-- `posters/carbon_aware_ml_poster_options.pptx`: three editable PowerPoint poster concepts.
+- `icons/google_slides_png/`: high-resolution PNG icon exports for slides.
+- `posters/carbon_aware_ml_academic_posters_v2.pptx`: editable poster source deck.
+- `posters/carbon_aware_ml_poster_final.pdf`: poster PDF for final assignment upload.
+- `presentations/carbon_aware_ml_graphical_abstract_google_slides.pptx`: editable Google-Slides-ready deck.
+- `presentations/copyable_svg_icon_bank_google_slides.pptx`: icon bank for quick reuse in presentation layouts.
+- `final_submission_links.txt`: ready-to-submit list of required links.
 - `report/Carbon_Aware_ML_Germany_IEEEPES_Technical_Report.docx`: IEEE/PES-style technical report.
 
 ## Research Questions
