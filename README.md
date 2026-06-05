@@ -30,3 +30,13 @@ python3 scripts/generate_analysis_assets.py
 ```
 
 The notebooks call the same generation functions and can be run independently.
+
+## Submission Checklist
+
+This repository is organized to satisfy the required GitHub submission format:
+
+- Executed notebook code: `notebooks/rq1_carbon_aware_ml.ipynb` through `notebooks/rq5_carbon_aware_ml.ipynb`
+- Displayed notebook outputs: each RQ notebook includes the result table and figure output inline for GitHub preview
+- Saved PDF figures: `outputs/figures/*.pdf`
+- Saved CSV tables: `outputs/tables/*.csv`
+- Reproducible asset script: `scripts/generate_analysis_assets.py`

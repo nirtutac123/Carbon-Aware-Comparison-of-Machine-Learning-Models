@@ -1,0 +1,28 @@
+{
+  "output": "/Users/niruta/Documents/2nd Sem all materials/Elective/PS26 2/presentations/copyable_svg_icon_bank_google_slides.pptx",
+  "outputBytes": 19260,
+  "slideCount": 1,
+  "slideSize": {
+    "width": 1280,
+    "height": 720
+  },
+  "previewDir": "/private/tmp/codex-presentations/manual-ps26-icons-only/preview",
+  "previewPaths": [
+    "/private/tmp/codex-presentations/manual-ps26-icons-only/preview/slide-01.png"
+  ],
+  "layoutDir": "/private/tmp/codex-presentations/manual-ps26-icons-only/layout",
+  "layoutResults": [
+    {
+      "layoutPath": "/private/tmp/codex-presentations/manual-ps26-icons-only/layout/slide-01.layout.json"
+    }
+  ],
+  "contactSheet": "/private/tmp/codex-presentations/manual-ps26-icons-only/contact-sheet.png",
+  "slides": [
+    {
+      "index": 1,
+      "requestedSlideNumber": 1,
+      "modulePath": "/private/tmp/codex-presentations/manual-ps26-icons-only/slides/slide-01.mjs",
+      "exportName": "slide01"
+    }
+  ]
+}
